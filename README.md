@@ -9,3 +9,7 @@ If you want to run this app, you'll need to connect it to one of your own Fireba
 If you don't know how to connect your app to Firebase, here you go.
 
 https://www.ericdecanini.com/2017/12/30/integrate-firebase-android-app/
+
+See the blog post this project was made for
+
+https://www.ericdecanini.com/2019/12/16/instant-chat-messenger-with-cloud-firestore/
