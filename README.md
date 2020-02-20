@@ -13,3 +13,7 @@ https://www.ericdecanini.com/2017/12/30/integrate-firebase-android-app/
 See the blog post this project was made for
 
 https://www.ericdecanini.com/2019/12/16/instant-chat-messenger-with-cloud-firestore/
+
+For the MVVM version of this app which includes Dagger, LiveData, and Coroutines, see this
+
+https://www.ericdecanini.com/2020/01/27/android-chat-messenger-with-firestore-mvvm-edition-with-dagger-livedata-and-coroutines/
